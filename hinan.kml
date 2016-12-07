@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>避難所マップ（宮城県仙台市の避難所一覧）</name>
+		<description><![CDATA[<br>避難所・避難経路の確認にお役立てください。<br><br>１ページ目：青葉区、若林区、太白区、泉区（1−16/66）<br>２ページ目：泉区（17-66/66）、宮城野区<br><br>■指定避難所（青アイコン）<br>避難のための広場と建物を備えた施設。<br>（市立の小学校、市立の中学校、市立の高等学校など）<br><br>■福祉避難所（紫アイコン）<br>指定避難所での生活が困難な高齢者や障がい者等の<br>災害時要援護者を受け入れるために開設する二次的<br>避難所。<br>（一部の高齢者施設、障がい者施設など）<br><br>■地域避難場所（緑アイコン）<br>指定避難所の確保がむずかしい地域の一時的な<br>避難広場。<br>（25,000㎡以上の公園、施設、一部の小・中・高等学　　校、大学など）<br><br>■広域避難場所（黄アイコン）<br>火災の広がりにより指定避難所などにとどまることが　　できないような場合の避難広場。<br>（50,000㎡以上の公園、施設など）<br><br>■ご参考：仙台市消防局<br>http://www.city.sendai.jp/syoubou/bousai/hinanjo_doko.html<br><br>避難所マップについてご意見・ご要望等ございましたら、以下の宛先までお願いします。<br>E-mail：takuya.naitoあっとgmail.com<br><br>※「あっと」はスパムメール対策です。<br>　送信時には「@」に変更してください。]]></description>
+		<NetworkLink>
+			<name>避難所マップ（宮城県仙台市の避難所一覧）</name>
+			<Link>
+				<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1LEJlXHkH4tbt9J7g7NA1mV8RHQ0</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
